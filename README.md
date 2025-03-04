@@ -4,3 +4,5 @@
 My configs for my linux system
 
 ## Applications and information
+
+### Window Manager
