@@ -1,0 +1,64 @@
+[window]
+
+title = "terminal (nerd shit)"
+
+padding.x = 8
+padding.y = 8
+
+decorations = "None"
+decorations_theme_variant = "Dark" # "Dark"
+
+opacity = 1.0
+blur = true
+
+[font]
+
+size = 9.0
+normal = {family = "monospace", style = "Regular"}
+bold = {family = "monospace", style = "Bold"}
+italic = {family = "monospace", style = "Italic"}
+bold_italic = {family =  "monospace", style = "Bold Italic"}
+offset = {x = 0, y = 0}
+
+
+[scrolling]
+
+history = 500
+multiplier = 2
+
+[cursor]
+
+style = {shape = "Beam", blinking = "Off"}
+
+[debug]
+
+render_timer = false
+
+[colors.primary]
+
+foreground = "#a0a0a0"
+background = "#050505"
+
+[colors.normal]
+
+black = "#151515"
+red = "#a00000"
+green = "#007500"
+yellow = "#bea600"
+blue = "#0f2eff"
+
+[colors.bright]
+
+black = "#252525"
+red = "#d00000"
+green = "#00a000"
+yellow = "#fff700"
+blue = "#0f2eff"
+
+[colors.dim]
+
+black = "#000000"
+red = "#850000"
+green = "#006500"
+blue = "#000090"
+yellow = "#ae9000"
