@@ -20,3 +20,13 @@ Hyprland does not have a taskbar built in by default, so users need to configure
 ### Terminal Emulator
 
 I wanted something customizable and fast, so there were a few options availible to me. Currently, I am using kitty, which is the reccommended emulator for hyprland. It is very fast and very customizable. Prior to using kitty, I used Alacritty. My config for that is also here.
+
+### Application launcher
+
+I decided to use tofi becuase it is clean, easy to configure and was the easiest to set up for me
+
+### Text Editor
+
+#### Neovim
+
+I wanted to move more into TUIs (terminal user interfaces), instead of GUIs (Graphical user interfaces). Originally, I used nano, but it was not clean looking at all and it did not work as a full fletched IDE/code editor. Next, I used Vim, but it had the same problems. A few months ago, my friend Niko (NMedvesky on GitHub) sent me his Neovim
