@@ -34,4 +34,12 @@ I decided to use tofi becuase it is clean, easy to configure and was the easiest
 
 I wanted to move more into TUIs (terminal user interfaces), instead of GUIs (Graphical user interfaces). Originally, I used nano, but it was not clean looking at all and it did not work as a full fletched IDE/code editor. Next, I used Vim, but it had the same problems. A few months ago, my friend Niko (NMedvesky on GitHub) sent me his Neovim configuration and helped me set it up on my system. It looks pretty clean and in the future, I will edit it more.
 
-![a screenshot](https://github.com/Eric-Ward475/dotfiles/blob/main/repo_imgs/nvim%20ss.png?raw=true)
+
+## Screenshots
+
+### Neovim
+
+![nvim ss](https://github.com/Eric-Ward475/dotfiles/blob/main/repo_imgs/nvim%20ss.png?raw=true)
+### Waybar and Tofi
+
+![waybar tofi ss](https://github.com/Eric-Ward475/dotfiles/blob/main/repo_imgs/tofi%20and%20waybar.png)
